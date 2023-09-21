@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Product 1",
+    "price": 100,
+    "features": true,
+    "rating": 4.5,
+    "company": "apple"
+  },
+  {
+    "name": "Product 2",
+    "price": 200,
+    "features": false,
+    "rating": 4.0,
+    "company": "mi"
+  },
+  {
+    "name": "Product 3",
+    "price": 150,
+    "features": true,
+    "rating": 4.2,
+    "company": "redmi"
+  },
+  {
+    "name": "Product 4",
+    "price": 120,
+    "features": false,
+    "rating": 3.8,
+    "company": "apple"
+  },
+  {
+    "name": "Product 5",
+    "price": 180,
+    "features": true,
+    "rating": 4.7,
+    "company": "mi"
+  },
+  {
+    "name": "Product 6",
+    "price": 130,
+    "features": false,
+    "rating": 4.0,
+    "company": "redmi"
+  },
+  {
+    "name": "Product 7",
+    "price": 90,
+    "features": true,
+    "rating": 3.9,
+    "company": "apple"
+  },
+  {
+    "name": "Product 8",
+    "price": 250,
+    "features": true,
+    "rating": 4.9,
+    "company": "mi"
+  },
+  {
+    "name": "Product 9",
+    "price": 170,
+    "features": false,
+    "rating": 4.3,
+    "company": "redmi"
+  },
+  {
+    "name": "Product 10",
+    "price": 110,
+    "features": true,
+    "rating": 4.4,
+    "company": "apple"
+  },
+  {
+    "name": "Product 11",
+    "price": 220,
+    "features": false,
+    "rating": 4.1,
+    "company": "mi"
+  },
+  {
+    "name": "Product 12",
+    "price": 190,
+    "features": true,
+    "rating": 4.6,
+    "company": "redmi"
+  },
+  {
+    "name": "Product 13",
+    "price": 140,
+    "features": false,
+    "rating": 4.2,
+    "company": "apple"
+  },
+  {
+    "name": "Product 14",
+    "price": 160,
+    "features": true,
+    "rating": 4.8,
+    "company": "mi"
+  },
+  {
+    "name": "Product 15",
+    "price": 230,
+    "features": true,
+    "rating": 5.0,
+    "company": "redmi"
+  },
+  {
+    "name": "Product 16",
+    "price": 260,
+    "features": false,
+    "rating": 4.7,
+    "company": "apple"
+  },
+  {
+    "name": "Product 17",
+    "price": 210,
+    "features": true,
+    "rating": 4.4,
+    "company": "mi"
+  },
+  {
+    "name": "Product 18",
+    "price": 270,
+    "features": true,
+    "rating": 4.9,
+    "company": "redmi"
+  },
+  {
+    "name": "Product 19",
+    "price": 280,
+    "features": false,
+    "rating": 4.3,
+    "company": "apple"
+  },
+  {
+    "name": "Product 20",
+    "price": 300,
+    "features": true,
+    "rating": 4.6,
+    "company": "mi"
+  }
+]
